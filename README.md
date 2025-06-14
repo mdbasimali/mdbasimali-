@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdbasimali&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdbasimali&show_icons=true&theme=radical&cache_seconds=60" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdbasimali&layout=compact&theme=radical" width="47%" />
 </div>
 
