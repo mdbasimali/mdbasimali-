@@ -1,13 +1,12 @@
 <!-- GitHub Profile README for @mdbasimali -->
-
 <!-- 🌟 Custom Banner -->
 <p align="center">
-  <img src="https://github.com/mdbasimali/mdbasimali/blob/main/assets/banner.png?raw=true" width="100%" alt="Basim Ali Banner" />
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
 </p>
 
 <!-- 🖋 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Basim+Ali;MERN+Stack+Developer;React+|+Tailwind+Lover;Open+Source+Contributor;Let’s+Code+Awesome!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Basim+Ali;MERN+Stack+Developer;React+|+Tailwind+Lover;Open+Source+Contributor;Let’s+Code+Awesome!" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 MERN Stack Developer | 🔥 React & Firebase Enthusiast</h3>
@@ -31,7 +30,7 @@
 
     </td>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
     </td>
   </tr>
 </table>
@@ -43,6 +42,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,vscode,figma&perline=15&theme=dark" alt="Tech Stack" />
 </p>
+
 ---
 
 ### 📊 GitHub Stats & Contributions
@@ -61,6 +61,13 @@
 ---
 
 ### 🧠 Competitive Programming
+<!-- 🧠 LeetCode Stats (Glass Transparent Theme) -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mdbasimali?ext=contest&animation=true&theme=glass&font=JetBrains%20Mono" alt="LeetCode Stats Glass Theme" />
+</p>
+
+
+
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/your_leetcode_username)
 
